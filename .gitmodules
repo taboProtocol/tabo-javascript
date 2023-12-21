@@ -1,0 +1,4 @@
+[submodule "external/tabo-cpp"]
+	path = external/tabo-cpp
+	url = https://github.com/TaboProtocol/tabo-cpp.git
+	ignore = dirty
